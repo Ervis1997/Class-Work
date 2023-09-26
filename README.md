@@ -36,11 +36,7 @@ This is a static landing page project for a development company. The page is dev
 ## Credits
 
 - Design inspiration: [Figma Templates](https://www.figma.com/templates)
-- Images: [Unsplash](https://unsplash.com)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 <img width="948" alt="231876375-6fcf7c2e-aa23-462b-9947-910256cff903" src="https://github.com/Ervis1997/Class-Work/assets/116200352/8f16f150-225b-4de0-af54-fa98b4346cf3">
